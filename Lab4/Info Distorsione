@@ -1,0 +1,17 @@
+Domanda 3
+Hierarchical 3108 15 cluster 
+Distorsione =  1368084188890.4146
+
+K-Means 3108 15 cluster 5 iterazioni
+Distorsione =  1430291764345.403
+
+-------------------------------------------------------
+Domanda 4
+Gerarchico 9 cluster 212 nodi
+Distorsione =  196752213374.95956
+
+K-Means 9 cluster 212 nodi
+Distorsione =  95382765365.33682
+
+--------------------------------------------------------
+Domanda 
